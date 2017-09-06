@@ -1,0 +1,5 @@
+Working with elastic search and django
+- http://talks.caktusgroup.com/shipit/2013/haystack-facets/#slide1
+
+Working with django haystack
+- http://knowpapa.com/haystack-elasticsearch/
